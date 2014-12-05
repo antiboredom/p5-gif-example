@@ -3,7 +3,6 @@ var recording = false;
 var c;
 var gif;
 
-
 function setup() {
   c = createCanvas(320, 240);
   capture = createCapture(VIDEO);
